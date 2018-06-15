@@ -110,10 +110,10 @@ router.post('/user/authenticate',function(req,res) {
 
 ## Authors
 
-* **Kitty Shen**
-* **Unobtainiumrock**
-* **Hannah Lim**
-* **Alexandra Goodwin**
+* **Kitty Shen**(https://github.com/kittyshen)
+* **Unobtainiumrock**(https://github.com/Unobtainiumrock)
+* **Hannah Lim**(https://github.com/hannahlim213)
+* **Alexandra Goodwin**(https://github.com/alexgood1)
 
 ## License
 
