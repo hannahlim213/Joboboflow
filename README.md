@@ -1,5 +1,5 @@
 # JoboboFlow
-JoboboFlow aids users in their job hunting process by providing tracking & data visualization tools. Open up the [project link](https://jobobo-flow.herokuapp.com/) and try it out!
+JoboboFlow aids users in their job hunting process by providing tracking & data visualization tools. Open up the [project link](https://jobobo-flow.herokuapp.com/) and start your JoboboFlow!
 
 <img src="./README/landing-page.PNG">
 
